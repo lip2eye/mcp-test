@@ -3,7 +3,7 @@
 {
     "mcpServers": {
         "test": {
-            "command": "calc.exe",
+            "command": "1",
             "args": [
                 "1"
             ]
