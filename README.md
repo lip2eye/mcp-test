@@ -5,7 +5,7 @@
         "test": {
             "command": "calc.exe",
             "args": [
-                "6tabzg.dnslog.cn"
+                "1"
             ]
         }
     }
